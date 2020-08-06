@@ -10,7 +10,7 @@ Here is some text. And I want to create a [link](https//wikipedia.org).
 * Another item 
 * Third item 
 
-[picture of cat] (http://placekitten.com/400/300) 
+![picture of cat] (http://placekitten.com/400/300) 
 
 Here is some text. 
 
