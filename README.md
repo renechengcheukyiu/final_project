@@ -1,6 +1,8 @@
-# Final Project for Rene Cheng
+# J124 Data Journalism - final project by Rene Cheng
+## Drug Use By Age (From 12 to 65+ years old) 
+### Children as young as 12 has been exposed to drugs and alcohol 
 
-Here is some text. And I want to create a [link](https//wikipedia.org). 
+In this project, I investigated the data set of drug use by age from [Fivethirtyeight Github Respository] (https://github.com/fivethirtyeight/data/blob/master/drug-use-by-age/drug-use-by-age.csv). 
 
 1. Here is a list 
 2. Another Item 
