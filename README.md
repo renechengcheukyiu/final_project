@@ -19,11 +19,13 @@ Here is the following steps I used to question my data set:
 In this data set, there are 13 drugs reported, however, I am only choosing two of the drugs from all ages. I will be focusing on the drugs: cocaine and marijuana. Also, each age group has a sample size at around 2000+, I multipled the number of people who are sampled by the percentage to see what is the number of people who has in contact to this drug. 
 
 Here is the formula I used: 
-```=Sample Size*(Percentage/100) 
-````
+```equation: 
+=Sample Size*(Percentage/100) 
+```
 Example: 
 In age 12, there are 2798 individuals in the sample size. There are 1.1% of this age group have contact with marijuana. In order to find the number of people who has contact with marijuana. I used this formula: 
-``` =2798*(1.1/100)
+```equation: 
+ =2798*(1.1/100)
 ```
 
 
