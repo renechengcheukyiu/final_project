@@ -3,10 +3,10 @@
 ### Children as young as 12 has been exposed to drugs and alcohol 
 
 
-In this project, I investigated the data set of drug use by age from [Fivethirtyeight Github Respository](https://github.com/fivethirtyeight/data/tree/master/drug-use-by-age). The data was used to investigate the story behind "How Baby Boomers Get High". It contains 13 drug uses from across 17 ages, from 12 years old up to 65+ years old. All the data and sources can be found from: [National Survey on Drug Use and Health from the Substance Abuse and Mental Health Data Archive](https://www.icpsr.umich.edu/icpsrweb/content/SAMHDA/index.html)
+In this project, I investigated the data set of drug use by age from [Fivethirtyeight Github Respository](https://github.com/fivethirtyeight/data/tree/master/drug-use-by-age). The data was used to investigate the story behind "How Baby Boomers Get High". It contains 13 drug uses from across 17 ages, range from as young as 12 years old up to 65+ years old. All the data and sources can be found from: [National Survey on Drug Use and Health from the Substance Abuse and Mental Health Data Archive](https://www.icpsr.umich.edu/icpsrweb/content/SAMHDA/index.html)
 
 
-In order to get this data and convert into a usable format, I had to download the raw data from this Github Respository, and ensure I downloaded in the Comma Separated Values (.csv) file. This way, I will be able to look at the data in details in Google Sheets. 
+In order to get this data and convert into a usable format, I will have to download the raw dataset from the Fivethirtyeight Github Respository, and ensure I download a Comma Separated Values (.csv) file. This way, I will be able to look at the data in details in Google Sheets to create pivot tables and graphs. 
 
 
 1. Here is a list 
