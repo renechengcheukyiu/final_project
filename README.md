@@ -78,6 +78,7 @@ Pivot Table for Question 2:
 
 Data Visualization for Question 2: 
 
+
  <img src="https://media.journalism.berkeley.edu/upload/2020/08/1597115290ac62f71.png" width="600" height="600">
   
  In this data visualization, it presented the median frequency of the individuals who used cocaine vs. marijuana in a year. It was fasincating to see that there was a big jump of cocaine usage from ages 35 to 49 and 50 to 64. On the other hand, the usage of marijuana was extremely different compare to the cocaine usage. The highest number of marijuana usage was the age group range from 30 to 34. I can also see there was a slight increase from the age group 17 to 18, because it was when many individuals attend college. I also predicted that if this data set had a time frame filter, there would be more detailed data to see what time of the year drug were used more often. 
