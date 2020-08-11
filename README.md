@@ -41,7 +41,14 @@ Data visualization for Question 1:
   <img src="https://media.journalism.berkeley.edu/upload/2020/08/1597114495ac996ff.png" width="600" height="600">
 
 2. How often do these individuals use cocaine versus marijuana in a year?
+
+Pivot Table for Question 2: 
+
 <img src="https://media.journalism.berkeley.edu/upload/2020/08/1597113160df7bc5d.png" width="400" height="300">
+
+Data Visualization for Qeustion 2: 
+
+  <img src="https://media.journalism.berkeley.edu/upload/2020/08/1597115290ac62f71.png" width="600" height="600">
 
 
 
@@ -53,7 +60,7 @@ Data visualization for Question 1:
 * Another item 
 * Third item 
 
-![picture of cat] (http://placekitten.com/400/300) 
+![picture of cat](http://placekitten.com/400/300) 
 
 Here is some text. 
 
