@@ -28,7 +28,7 @@ In this data set, there were 13 drugs reported, however, I only chose two of the
 =SUM(B2:B18)
 ``` 
 I used this formula. The total sample size for all ages was 55,268 individuals. 
-
+------------------------------------------------------------------------------
 
 
   To find the number of people who used this drug,
