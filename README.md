@@ -28,8 +28,8 @@ In this data set, there were 13 drugs reported, however, I only chose two of the
 =SUM(B2:B18)
 ``` 
 I used this formula. The total sample size for all ages was 55,268 individuals. 
-------------------------------------------------------------------------------
 
+------------------------------------------------------------------------------
 
   To find the number of people who used this drug,
 
@@ -45,7 +45,7 @@ In age 12, there were 2798 individuals in the sample size. There were 1.1% of th
 ```
 The answer: 30.778. There are around 31 people at the age of 12 years old have used marijuana.
 
-
+----------------------------------------------------------------------------------
 
    To find the number of people who used this drug for ALL age group,
 
