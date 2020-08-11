@@ -22,15 +22,20 @@ In order to get this data and convert into a usable format, I downloaded the raw
 In this data set, there were 13 drugs reported, however, I only chose two of the drugs from all ages: cocaine and marijuana. Also, each age group had a sample size at around 2000+, I multipled the number of people who were sampled by the percentage to find out the number of people who used this drug. _The total sample size for all ages was 55,268 individuals_. 
 
 ##### Here was the formula I used: 
+To find the total sample size of all age group in Google Sheets,
+
 ```equation: 
 =SUM(B2:B18)
 ``` 
+I used this formula. The total sample size for all ages was 55,268 individuals. 
 
-To find the total sample size of all age group in Google Sheets, I used this formula. The total sample size for all ages was 55,268 individuals. 
+To find the number of people who used this drug,
 
 ```equation: 
 =Sample Size*(Percentage/100) 
 ```
+I used this formula. The total number of people who used this drug varies with age. 
+
 Example: 
 In age 12, there were 2798 individuals in the sample size. There were 1.1% of this age group used marijuana. In order to find the number of people who used this drug. I used this formula: 
 ```equation: 
@@ -38,13 +43,12 @@ In age 12, there were 2798 individuals in the sample size. There were 1.1% of th
 ```
 The answer: 30.778. There are around 31 people at the age of 12 years old have used marijuana.
 
-In Google Sheet, I used the same formula for each age group and sample size. However, I used entered the formula like the following: 
+To find the number of people who used this drug for ALL age group,
 
 ```equation: 
 =B2*(C2/100) 
 ```
-
-After I have entered this formula, I dragged the same formula for the rest of the data set. This way, I was able to quickly find out the number of people who used this drug with the same formula. 
+I used the same formula for each age group and sample size.  After I have entered this formula, I dragged the same formula for the rest of the column. This way, I was able to quickly find out the number of people who used this drug with the same formula. 
 
 #### Interrogating the Data 
 Questions I asked my data: 
