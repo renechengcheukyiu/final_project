@@ -39,6 +39,7 @@ Questions I asked my data:
 
  <img src="https://media.journalism.berkeley.edu/upload/2020/08/1597112882a0d6661.png" width="400" height="300">
 
+ 
  Data visualization for Question 1: 
 
   <img src="https://media.journalism.berkeley.edu/upload/2020/08/1597114495ac996ff.png" width="600" height="600">
@@ -50,6 +51,7 @@ I thought it was an interesting data set to see how people in different ages alr
 Pivot Table for Question 2: 
 
 <img src="https://media.journalism.berkeley.edu/upload/2020/08/1597113160df7bc5d.png" width="400" height="300">
+
 
 Data Visualization for Question 2: 
 
