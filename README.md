@@ -31,11 +31,17 @@ The answer: 30.778. There are around 31 people at the age of 12 years old have c
 
 Question I have asked my data set: 
 1. What is the total number of people that use cocaine versus marijuana?
+
+Pivot Table for Question 1: 
+
 <img src="https://media.journalism.berkeley.edu/upload/2020/08/1597112882a0d6661.png" width="400" height="300">
+
+Data visualization for Question 1: 
+
+  <img src="https://media.journalism.berkeley.edu/upload/2020/08/1597114495ac996ff.png" width="600" height="600">
 
 2. How often do these individuals use cocaine versus marijuana in a year?
 <img src="https://media.journalism.berkeley.edu/upload/2020/08/1597113160df7bc5d.png" width="400" height="300">
-
 
 
 
