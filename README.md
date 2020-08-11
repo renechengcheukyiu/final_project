@@ -22,7 +22,7 @@ In order to get this data and convert into a usable format, I downloaded the raw
 In this data set, there were 13 drugs reported, however, I only chose two of the drugs from all ages: cocaine and marijuana. Also, each age group had a sample size at around 2000+, I multipled the number of people who were sampled by the percentage to find out the number of people who used this drug. _The total sample size for all ages was 55,268 individuals_. 
 
 ##### Here was the formula I used: 
-To find the total sample size of all age group in Google Sheets,
+   To find the total sample size of all age group in Google Sheets,
 
 ```equation: 
 =SUM(B2:B18)
@@ -31,7 +31,7 @@ I used this formula. The total sample size for all ages was 55,268 individuals.
 
 
 
-To find the number of people who used this drug,
+  To find the number of people who used this drug,
 
 ```equation: 
 =Sample Size*(Percentage/100) 
@@ -47,7 +47,7 @@ The answer: 30.778. There are around 31 people at the age of 12 years old have u
 
 
 
-To find the number of people who used this drug for ALL age group,
+   To find the number of people who used this drug for ALL age group,
 
 ```equation: 
 =B2*(C2/100) 
