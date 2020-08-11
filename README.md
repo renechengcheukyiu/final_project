@@ -12,11 +12,11 @@ Here is the following steps I used to question my data set:
 1. Download .csv file from Github 
 2. Upload data set onto Google Sheets 
 3. Look at what was interesting about the data set 
-4. Separate "Percentage of drug-use" and "Drug-use Frequency" columns for a more viusal view
+4. Separate "Percentage of drug-use" and "Drug-use Frequency" columns for a more visual view
 5. Choose the certain drugs I found interesting and delete the rest 
 6. Ask my data set questions 
 
-In this data set, there are 13 drugs reported, however, I am only choosing two of the drugs from all ages. I will be focusing on the drugs: cocaine and marijuana. Also, each age group has a sample size at around 2000+, I multipled the number of people who are sampled by the percentage to see what is the number of people who has in contact to this drug. 
+In this data set, there are 13 drugs reported, however, I am only choosing two of the drugs from all ages. I will be focusing on the drugs: cocaine and marijuana. Also, each age group has a sample size at around 2000+, I multipled the number of people who are sampled by the percentage to see what is the number of people who has in contact to this drug. _The total sample size for all ages is 55,268 individuals_. 
 
 Here is the formula I used: 
 ```equation: 
@@ -27,6 +27,16 @@ In age 12, there are 2798 individuals in the sample size. There are 1.1% of this
 ```equation: 
  =2798*(1.1/100)
 ```
+The answer: 30.778. There are around 31 people at the age of 12 years old have contact with marijuana. 
+
+Question I have asked my data set: 
+1. What is the total number of people that use cocaine versus marijuana?
+
+Pivot Table for Question 1: 
+![Pivot Table total number of people that use cocaine vs. marijuana](https://media.journalism.berkeley.edu/upload/2020/08/1597112882a0d6661.png=400x300)
+
+2. How often do these individuals use cocaine versus marijuana in a year?
+![pivot table frequency of people use cocaine versus marijuana](https://media.journalism.berkeley.edu/upload/2020/08/1597113160df7bc5d.png = 400x300)
 
 
 
