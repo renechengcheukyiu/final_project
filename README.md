@@ -43,7 +43,7 @@ In age 12, there were 2798 individuals in the sample size. There were 1.1% of th
 ```equation: 
  =2798*(1.1/100)
 ```
-The answer: 30.778. There are around 31 people at the age of 12 years old have used marijuana.
+The answer: 30.778. There were around 31 people at the age of 12 years old have used marijuana.
 
 ----------------------------------------------------------------------------------
 
@@ -52,7 +52,7 @@ The answer: 30.778. There are around 31 people at the age of 12 years old have u
 ```equation: 
 =B2*(C2/100) 
 ```
-I used the same formula for each age group and sample size.  After I have entered this formula, I dragged the same formula for the rest of the column. This way, I was able to quickly find out the number of people who used this drug with the same formula. 
+I used the same formula for each age group and sample size.  After I have entered this formula, I dragged the same formula for the rest of the column. This way, I was able to quickly find out the number of people who used this drug. 
 
 #### Interrogating the Data 
 Questions I asked my data: 
